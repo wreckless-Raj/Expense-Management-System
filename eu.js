@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","eu",{embeddingInProgress:"Itsatsitako URLa txertatzen saiatzen...",embeddingFailed:"URL hau ezin izan da automatikoki txertatu."});
+CKEDITOR.plugins.setLang("bidi","eu",{ltr:"Testuaren norantza ezkerretik eskuinera",rtl:"Testuaren norantza eskuinetik ezkerrera"});

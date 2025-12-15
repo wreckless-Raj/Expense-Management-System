@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","gl",{embeddingInProgress:"Tentando incrustar URL pegado...",embeddingFailed:"Non foi posíbel incrustar automaticamente este URL."});
+CKEDITOR.plugins.setLang("bidi","gl",{ltr:"Dirección do texto de esquerda a dereita",rtl:"Dirección do texto de dereita a esquerda"});

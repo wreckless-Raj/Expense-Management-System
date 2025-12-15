@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","mk",{embeddingInProgress:"Обид за вметнување копирано URL...",embeddingFailed:"Ова URL не може да биде вметнато автоматски."});
+CKEDITOR.plugins.setLang("bidi","mk",{ltr:"Насока на текст: од лево кон десно",rtl:"Насока на текст: од десно кон лево"});

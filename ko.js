@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","ko",{embeddingInProgress:"붙여넣은 URL 첨부 시도 중...",embeddingFailed:"이 URL은 자동으로 첨부할 수 없습니다."});
+CKEDITOR.plugins.setLang("bidi","ko",{ltr:"텍스트 방향이 왼쪽에서 오른쪽으로 ",rtl:"텍스트 방향이 오른쪽에서 왼쪽으로"});

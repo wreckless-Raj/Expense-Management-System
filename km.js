@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","km",{embeddingInProgress:"កំពុង​ព្យាយាម​បង្កប់ URL ដែល​បាន​បិទភ្ជាប់...",embeddingFailed:"មិន​អាច​បង្កប់ URL នេះ​ដោយ​ស្វ័យប្រវត្តិ​ទេ។"});
+CKEDITOR.plugins.setLang("bidi","km",{ltr:"ទិស​ដៅ​អក្សរ​ពី​ឆ្វេង​ទៅ​ស្ដាំ",rtl:"ទិស​ដៅ​អក្សរ​ពី​ស្ដាំ​ទៅ​ឆ្វេង"});

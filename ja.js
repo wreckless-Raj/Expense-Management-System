@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","ja",{embeddingInProgress:"貼り付けられたURLを埋め込み中...",embeddingFailed:"このURLは自動的に埋め込むことが出来ません。"});
+CKEDITOR.plugins.setLang("bidi","ja",{ltr:"テキストの向き : 左から右へ",rtl:"テキストの向き : 右から左へ"});
